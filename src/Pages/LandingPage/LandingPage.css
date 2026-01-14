@@ -1,0 +1,34 @@
+.body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.container-body{
+    width: 100%;
+    color: #ffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container1{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    color: #ffff;
+}
+
+.container2{
+    margin: auto;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    color: #ffff;
+}
+
+/* #loGo{
+    width: 90%;
+    height: auto;
+} */
